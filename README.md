@@ -1,4 +1,3 @@
-# 💻 Mohd Hamza  
 
 **`Full Stack Web Developer | Tech Enthusiast | Problem Solver`**
 
