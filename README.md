@@ -8,22 +8,53 @@ I am a dedicated full-stack developer with strong expertise in building scalable
 
 ---
 
-## 🚀 Technical Skills
+## 🚀 Tech Stack
 
 ### **Languages**
-TypeScript | Python | SQL | JavaScript | HTML5 | CSS  
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" height="40"/> TypeScript  
+  <img src="https://skillicons.dev/icons?i=python" height="40"/> Python  
+  <img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript  
+  <img src="https://skillicons.dev/icons?i=html" height="40"/> HTML  
+  <img src="https://skillicons.dev/icons?i=css" height="40"/> CSS  
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
+</p>
+
+---
 
 ### **Frameworks & Libraries**
-React | Django | Express.js | Node.js | Next.js | Tailwind CSS | Redux | Redux Toolkit | React Query  
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/> React  
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40"/> Next.js  
+  <img src="https://skillicons.dev/icons?i=django" height="40"/> Django  
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js  
+  <img src="https://skillicons.dev/icons?i=express" height="40"/> Express.js  
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> Tailwind CSS  
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>  
+</p>
+
+---
 
 ### **Databases**
-MySQL | MongoDB | PostgreSQL | Firebase | Appwrite  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/> MySQL  
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> MongoDB  
+  <img src="https://skillicons.dev/icons?i=postgres" height="40"/> PostgreSQL  
+  <img src="https://skillicons.dev/icons?i=firebase" height="40"/> Firebase  
+  <img src="https://img.shields.io/badge/Appwrite-E91E63?style=for-the-badge&logo=appwrite&logoColor=white"/>  
+</p>
 
-### **Version Control**
-Git  
+---
 
-### **Web Tools**
-VS Code | Postman | Chrome DevTools | GitHub  
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/> Git  
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code  
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/> Postman  
+  <img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub  
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>  
+</p>
 
 ---
 
@@ -53,13 +84,9 @@ Aspiring software engineer seeking to leverage technical expertise and problem-s
 
 - Portfolio  
 - [GitHub](https://github.com/Mohd-Hamza-123)  
-- [LinkedIn](#)  
+- LinkedIn  
 - Email: mohdhamza.me@gmail.com  
 
 ---
 
 Thanks for visiting my profile! Feel free to connect or explore my repositories.
-
-
-
-
