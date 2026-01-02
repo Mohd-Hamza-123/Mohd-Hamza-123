@@ -34,10 +34,6 @@ I am a dedicated full-stack developer with strong expertise in building scalable
       <img src="https://skillicons.dev/icons?i=css" width="50"/><br/>
       <b>CSS</b>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=azure-sql-database&logoColor=white" width="90"/><br/>
-      <b>SQL</b>
-    </td>
   </tr>
 </table>
 
@@ -64,9 +60,7 @@ I am a dedicated full-stack developer with strong expertise in building scalable
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/><b>MySQL</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/><b>MongoDB</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br/><b>PostgreSQL</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br/><b>Firebase</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Appwrite-E91E63?style=for-the-badge&logo=appwrite&logoColor=white" width="110"/><br/><b>Appwrite</b></td>
   </tr>
