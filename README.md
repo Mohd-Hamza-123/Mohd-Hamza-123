@@ -87,7 +87,7 @@ I am a dedicated full-stack developer with strong expertise in building scalable
 ### **KwikDocs**  
 A documentation web app for beginners featuring a built-in code editor, code saving, and multi-language documentation.  
 **Tech:** TypeScript, Next.js, MongoDB, Tailwind CSS  
-**Links:** [Live](kwikdocs.dev) | [GitHub Repo](https://github.com/Mohd-Hamza-123/kwikDocs)
+**Links:** [Live](https://kwikdocs.dev/) | [GitHub Repo](https://github.com/Mohd-Hamza-123/kwikDocs)
 
 ---
 
