@@ -87,14 +87,14 @@ I am a dedicated full-stack developer with strong expertise in building scalable
 ### **KwikDocs**  
 A documentation web app for beginners featuring a built-in code editor, code saving, and multi-language documentation.  
 **Tech:** TypeScript, Next.js, MongoDB, Tailwind CSS  
-**Links:** [Live](#) | [GitHub Repo](#)
+**Links:** [Live](kwikdocs.dev) | [GitHub Repo](https://github.com/Mohd-Hamza-123/kwikDocs)
 
 ---
 
 ### **Thoughlify**  
 A QnA platform with real-time chat, threaded discussions, and advanced search to enhance user engagement and knowledge exchange.  
 **Tech:** React, Tailwind CSS, Appwrite, Firebase  
-**Links:** [Live](#) | [GitHub Repo](#)
+**Links:** [Live](https://thoughtify.vercel.app/) | [GitHub Repo](https://github.com/Mohd-Hamza-123/Thoughtify)
 
 ---
 
