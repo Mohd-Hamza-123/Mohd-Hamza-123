@@ -27,6 +27,10 @@ I am a dedicated full-stack developer with strong expertise in building scalable
       <b>JavaScript</b>
     </td>
     <td align="center">
+      <img src="https://img.freepik.com/premium-vector/sql-structured-query-language-icon-label-internet-security-networking-vector-stock-illustration_100456-10733.jpg?semt=ais_hybrid&w=740&q=80" width="50"/><br/>
+      <b>SQL</b>
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=html" width="50"/><br/>
       <b>HTML</b>
     </td>
@@ -45,7 +49,6 @@ I am a dedicated full-stack developer with strong expertise in building scalable
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br/><b>React</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/><b>Next.js</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="50"/><br/><b>Django</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/><b>Node.js</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br/><b>Express.js</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/><b>Tailwind CSS</b></td>
@@ -61,6 +64,7 @@ I am a dedicated full-stack developer with strong expertise in building scalable
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/><b>MongoDB</b></td>
+     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="50"/><br/><b>MongoDB</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br/><b>Firebase</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Appwrite-E91E63?style=for-the-badge&logo=appwrite&logoColor=white" width="110"/><br/><b>Appwrite</b></td>
   </tr>
