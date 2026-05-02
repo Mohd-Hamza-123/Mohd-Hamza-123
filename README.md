@@ -64,7 +64,7 @@ I am a dedicated full-stack developer with strong expertise in building scalable
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/><b>MongoDB</b></td>
-     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="50"/><br/><b>MongoDB</b></td>
+     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="50"/><br/><b>Postgre SQL</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br/><b>Firebase</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Appwrite-E91E63?style=for-the-badge&logo=appwrite&logoColor=white" width="110"/><br/><b>Appwrite</b></td>
   </tr>
