@@ -110,10 +110,10 @@ Aspiring software engineer seeking to leverage technical expertise and problem-s
 
 ## 🔗 Connect With Me
 
-- Portfolio  
+- [Portfolio](https://mohdhamza.dev/)  
 - [GitHub](https://github.com/Mohd-Hamza-123)  
-- LinkedIn  
-- Email: mohdhamza.me@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/mohd-hamza-18959427a/)  
+- Email: mohdhamza.me@gmail.com
 
 ---
 
