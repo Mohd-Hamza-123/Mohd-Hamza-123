@@ -1,7 +1,7 @@
 # Hi, I'm Mohd Hamza  
 ### Full-Stack Developer | Software Developer Intern  
 
-Prayagraj, India  
+Hyderabad, India  
 Email: mohdhamza.me@gmail.com  
 
 I am a dedicated full-stack developer with strong expertise in building scalable, user-centric web applications. I enjoy transforming ideas into reliable products using modern technologies across frontend and backend ecosystems.
