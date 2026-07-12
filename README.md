@@ -1,5 +1,5 @@
 # Hi, I'm Mohd Hamza  
-### Full-Stack Developer | Software Developer Intern  
+### Full-Stack Developer  
 
 Hyderabad, India  
 Email: mohdhamza.me@gmail.com  
